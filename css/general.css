@@ -54,6 +54,7 @@ html {
 	/* Percentage of user's browser font-size setting 10px/16px = .625 */
 	font-size: 62.5%;
 	scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 
 body {
@@ -62,6 +63,7 @@ body {
 	font-weight: 400;
 	color: #555;
 	scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 
 /* ************************************** */
